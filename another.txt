@@ -1,2 +1,5 @@
 another file
 Hello from branch...
+Hi man.
+Hi there a new edit 
+Hi there is a new line.
